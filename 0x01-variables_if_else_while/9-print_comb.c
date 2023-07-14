@@ -9,9 +9,9 @@
 */
 int main(void)
 {
-	int n = 0;
+	int n;
 
-	for (n = 48; n <= 37; n++)
+	for (n = 48; n <= 57; n++)
 	{
 		putchar(n);
 		if (n == 57)
